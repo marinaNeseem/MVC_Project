@@ -1,0 +1,5 @@
+C:\Users\marin\source\repos\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.csproj.AssemblyReference.cache
+C:\Users\marin\source\repos\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.AssemblyInfo.cs
+C:\Users\marin\source\repos\Demo.DataAccess\obj\Debug\net8.0\Demo.DataAccess.csproj.CoreCompileInputs.cache

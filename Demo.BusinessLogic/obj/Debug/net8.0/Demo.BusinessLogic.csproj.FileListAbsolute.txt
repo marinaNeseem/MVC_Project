@@ -1,0 +1,5 @@
+C:\Users\marin\source\repos\Demo.BusinessLogic\obj\Debug\net8.0\Demo.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\marin\source\repos\Demo.BusinessLogic\obj\Debug\net8.0\Demo.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\Demo.BusinessLogic\obj\Debug\net8.0\Demo.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\Demo.BusinessLogic\obj\Debug\net8.0\Demo.BusinessLogic.AssemblyInfo.cs
+C:\Users\marin\source\repos\Demo.BusinessLogic\obj\Debug\net8.0\Demo.BusinessLogic.csproj.CoreCompileInputs.cache
